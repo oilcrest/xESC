@@ -10973,7 +10973,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_614105150721_Vertical"
+		(property "Footprint" "xESC2:USB_Micro"
 			(at 57.15 44.45 0)
 			(effects
 				(font
@@ -11000,7 +11000,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C668588"
+		(property "JLC" "C145795"
 			(at 60.96 43.18 0)
 			(effects
 				(font

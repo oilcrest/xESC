@@ -6021,7 +6021,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C49217"
+		(property "JLC" "C377773"
 			(at 39.37 41.91 0)
 			(effects
 				(font
@@ -6030,7 +6030,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C49217"
+		(property "LCSC" "C377773"
 			(at 39.37 41.91 0)
 			(effects
 				(font
@@ -6135,7 +6135,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C49217"
+		(property "JLC" "C377773"
 			(at 46.99 39.37 0)
 			(effects
 				(font
@@ -6144,7 +6144,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C49217"
+		(property "LCSC" "C377773"
 			(at 46.99 39.37 0)
 			(effects
 				(font

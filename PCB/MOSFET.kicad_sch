@@ -1577,7 +1577,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2985721"
+		(property "LCSC" "C2903495"
 			(at 195.58 83.82 0)
 			(effects
 				(font
@@ -1613,7 +1613,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C2985721"
+		(property "JLC" "C2903495"
 			(at 195.58 83.82 0)
 			(effects
 				(font
