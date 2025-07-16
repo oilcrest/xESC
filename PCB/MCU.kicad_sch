@@ -5637,7 +5637,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C2442665"
+		(property "JLC" "C2682775"
 			(at 25.4 77.47 0)
 			(effects
 				(font
@@ -5646,7 +5646,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2442665"
+		(property "LCSC" "C2682775"
 			(at 25.4 77.47 0)
 			(effects
 				(font
